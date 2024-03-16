@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/space-tourism-website-challenge/static/css/main.42203a13.css",
+    "main.js": "/space-tourism-website-challenge/static/js/main.aca32735.js",
+    "static/media/background-home-desktop.jpg": "/space-tourism-website-challenge/static/media/background-home-desktop.cdf3864ecbfdf20e8c3b.jpg",
+    "static/media/background-destination-desktop.jpg": "/space-tourism-website-challenge/static/media/background-destination-desktop.468b922c69bf5499b4bc.jpg",
+    "static/media/background-crew-desktop.jpg": "/space-tourism-website-challenge/static/media/background-crew-desktop.88a3c692fd34eb311e04.jpg",
+    "static/media/background-technology-desktop.jpg": "/space-tourism-website-challenge/static/media/background-technology-desktop.b7b589b3c0c5ef0811d4.jpg",
+    "index.html": "/space-tourism-website-challenge/index.html",
+    "main.42203a13.css.map": "/space-tourism-website-challenge/static/css/main.42203a13.css.map",
+    "main.aca32735.js.map": "/space-tourism-website-challenge/static/js/main.aca32735.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.42203a13.css",
+    "static/js/main.aca32735.js"
+  ]
+}
