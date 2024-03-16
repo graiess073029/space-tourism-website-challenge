@@ -5,7 +5,7 @@
     background-size: cover
 }
 
-@media screen and (min-width:1024px) {
+@media screen and (min-width:1280px) {
     .explore {
         align-items: center;
         display: flex;
@@ -66,7 +66,7 @@
     background-size: cover
 }
 
-@media screen and (min-width:1024px) {
+@media screen and (min-width:1280px) {
     .destinations {
         display: flex;
         position: relative;
@@ -177,7 +177,7 @@
     }
 }
 
-@media screen and (min-width:1024px) {
+@media screen and (min-width:1280px) {
     #root:has(.crew) {
         background-image: url(/space-tourism-website-challenge/static/media/background-crew-desktop.88a3c692fd34eb311e04.jpg);
         background-size: cover
@@ -287,7 +287,7 @@
     }
 }
 
-@media screen and (min-width:1024px) {
+@media screen and (min-width:1280px) {
     #root:has(.technologiesMain) {
         background-image: url(/space-tourism-website-challenge/static/media/background-technology-desktop.b7b589b3c0c5ef0811d4.jpg);
         background-size: cover
@@ -517,7 +517,7 @@ html {
     min-width: 100vw
 }
 
-@media screen and (min-width:1024px) {
+@media screen and (min-width:1280px) {
     .mobile {
         display: none
     }
